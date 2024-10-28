@@ -6,7 +6,7 @@ window.Config = {
   // UptimeRobot API Keys
   // 支持Monitor-Specific API Keys和Read-Only API Key，推荐使用Read-Only API Key，可填写多个
   ApiKeys: [
-    'ur1884169-f2ddd4677953551305552673',
+    'ur2631068-c5d3500ed9a3711613eb8190',
   ],
 
   // 日志天数，建议90
