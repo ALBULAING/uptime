@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'ZGQ Inc. の 站点监测',
+  SiteName: '网站服务状态检测',
 
   // UptimeRobot API Keys
   // 支持Monitor-Specific API Keys和Read-Only API Key，推荐使用Read-Only API Key，可填写多个
@@ -18,16 +18,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '个人主页',
-      url: 'https://domain.zgqinc.gq/'
+      text: '主页',
+      url: 'https://home.cool.cc.ua/'
     },
     {
-      text: '项目地址',
-      url: 'https://github.com/ZGQ-inc/uptime-status'
-    },
-    {
-      text: '原项目地址',
-      url: 'https://github.com/imsyy/status'
+      text: '个人博客',
+      url: 'https://blog.coolspace.cc/'
     },
   ],
 };
